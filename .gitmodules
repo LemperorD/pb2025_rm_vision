@@ -1,0 +1,8 @@
+[submodule "armor_detector_openvino"]
+	path = armor_detector_openvino
+	url = https://github.com/LemperorD/armor_detector_openvino.git
+	branch = main
+[submodule "armor_detector_tensorrt"]
+	path = armor_detector_tensorrt
+	url = https://github.com/LemperorD/armor_detector_tensorrt.git
+	branch = main
